@@ -1,0 +1,1 @@
+[传说生存](https://www.mcmod.cn/class/15700.html)
