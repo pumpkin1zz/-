@@ -67,7 +67,7 @@
 [XP] Waystone Color:16
 [XP] Expanded Setting Entries:false
 [XP] Transparent Background:false
-[XP] Minimap FPS Limiter:true
+[XP] Minimap FPS Limiter:false
 [XP] Portal Highlights Color:5
 [XP] NewChunks Highlighting:false
 [XP] Plain Waypoint Sharing:false

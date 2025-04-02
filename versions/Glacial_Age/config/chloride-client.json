@@ -3,7 +3,7 @@
   "fullScreen": "WINDOWED",
   "fpsDisplayMode": "ADVANCED",
   "fpsDisplayGravity": "LEFT",
-  "fpsDisplaySystemMode": "ON",
+  "fpsDisplaySystemMode": "OFF",
   "fpsDisplayMargin": 12,
   "fpsDisplayShadow": false,
   "fog": true,
