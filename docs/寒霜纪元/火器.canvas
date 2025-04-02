@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"3271fb3c43775051","x":-80,"y":-340,"width":125,"height":60,"type":"text","text":"燧发枪"},
+		{"id":"9f8b82f45ea5198f","x":-80,"y":-250,"width":138,"height":60,"type":"text","text":"手铳/手炮"},
+		{"id":"608436ebf83bb6d2","x":-80,"y":-160,"width":143,"height":60,"type":"text","text":"火门手枪"},
+		{"id":"6eaf3e84a489e30a","x":-360,"y":-190,"width":140,"height":60,"type":"text","text":"手持火器"},
+		{"id":"7bc6afb588b0094d","x":-80,"y":-60,"width":129,"height":60,"type":"text","text":"短管火铳"},
+		{"id":"d2ddc0f53815c2b0","x":340,"y":-220,"width":101,"height":60,"type":"text","text":"铁弹"},
+		{"id":"9b6a34dff1860579","x":340,"y":-130,"width":124,"height":60,"type":"text","text":"霰弹"},
+		{"id":"171750aa501ef9cd","x":561,"y":-220,"width":133,"height":60,"type":"text","text":"弹药种类"},
+		{"id":"faba07a56f7e4a11","x":340,"y":-310,"width":101,"height":60,"type":"text","text":"铅弹"}
+	],
+	"edges":[
+		{"id":"136cac4a1f351cfb","fromNode":"6eaf3e84a489e30a","fromSide":"right","toNode":"3271fb3c43775051","toSide":"left"},
+		{"id":"0ba253e9c19a5e39","fromNode":"6eaf3e84a489e30a","fromSide":"right","toNode":"9f8b82f45ea5198f","toSide":"left"},
+		{"id":"b000f13f3d7f68aa","fromNode":"6eaf3e84a489e30a","fromSide":"right","toNode":"608436ebf83bb6d2","toSide":"left"},
+		{"id":"7ea389aaca2f491a","fromNode":"6eaf3e84a489e30a","fromSide":"right","toNode":"7bc6afb588b0094d","toSide":"left"},
+		{"id":"e0a518d014240313","fromNode":"171750aa501ef9cd","fromSide":"left","toNode":"faba07a56f7e4a11","toSide":"right"},
+		{"id":"3d15b81b7d4a7190","fromNode":"171750aa501ef9cd","fromSide":"left","toNode":"d2ddc0f53815c2b0","toSide":"right"},
+		{"id":"1f610e6937124ef7","fromNode":"171750aa501ef9cd","fromSide":"left","toNode":"9b6a34dff1860579","toSide":"right"},
+		{"id":"c4e57713b42f95a0","fromNode":"3271fb3c43775051","fromSide":"right","toNode":"faba07a56f7e4a11","toSide":"left"},
+		{"id":"81532e5d42ce5e92","fromNode":"9f8b82f45ea5198f","fromSide":"right","toNode":"d2ddc0f53815c2b0","toSide":"left"},
+		{"id":"1ca6abe0fe1f3ddb","fromNode":"608436ebf83bb6d2","fromSide":"right","toNode":"faba07a56f7e4a11","toSide":"left"},
+		{"id":"9d73a3f3419b4230","fromNode":"7bc6afb588b0094d","fromSide":"right","toNode":"9b6a34dff1860579","toSide":"left"}
+	]
+}
