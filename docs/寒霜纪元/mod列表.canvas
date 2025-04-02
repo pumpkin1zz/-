@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"beb64f1e216ad7b4","type":"file","file":"docs/寒霜纪元/mods/群系和地形.md","x":-1040,"y":0,"width":400,"height":400},
+		{"id":"809f03d45a8121a0","type":"file","file":"docs/寒霜纪元/mods/Lib.md","x":-640,"y":0,"width":400,"height":400},
+		{"id":"640446a6e3178779","type":"text","text":"群系/地形","x":-911,"y":-340,"width":142,"height":50},
+		{"id":"e896029e7ad3c03a","type":"text","text":"lib","x":-490,"y":-340,"width":100,"height":50},
+		{"id":"4dfbbd3aebd866e5","type":"file","file":"docs/寒霜纪元/mods/客户端.md","x":-240,"y":0,"width":400,"height":400},
+		{"id":"b76e5e0a4ba63ea1","type":"text","text":"客户端","x":-102,"y":-340,"width":125,"height":50},
+		{"id":"abb85186990c2c7d","x":160,"y":0,"width":400,"height":400,"type":"file","file":"docs/寒霜纪元/mods/服务端.md"},
+		{"id":"7c8573f18f1d1a20","type":"text","text":"服务端","x":300,"y":-340,"width":120,"height":50},
+		{"id":"2839bcd91ae5c2a3","x":560,"y":0,"width":400,"height":400,"type":"file","file":"docs/寒霜纪元/mods/武器和工具.md"},
+		{"id":"ba4c32ee61fdc322","type":"text","text":"武器/工具","x":685,"y":-340,"width":150,"height":50},
+		{"id":"1b525b640e23f822","x":960,"y":0,"width":400,"height":400,"type":"file","file":"docs/寒霜纪元/mods/结构.md"},
+		{"id":"c630d6c18c34e601","type":"text","text":"结构","x":1103,"y":-340,"width":114,"height":50},
+		{"id":"3e03ef05724fa4ed","x":1360,"y":0,"width":400,"height":400,"type":"file","file":"docs/寒霜纪元/mods/生物和AI.md"},
+		{"id":"e5f436c02be049c3","type":"text","text":"生物/AI","x":1499,"y":-340,"width":122,"height":50}
+	],
+	"edges":[
+		{"id":"9c28d8134d78e2a3","fromNode":"640446a6e3178779","fromSide":"bottom","toNode":"beb64f1e216ad7b4","toSide":"top"},
+		{"id":"f5511961ede2af54","fromNode":"e896029e7ad3c03a","fromSide":"bottom","toNode":"809f03d45a8121a0","toSide":"top"},
+		{"id":"f618ee16549d9a65","fromNode":"b76e5e0a4ba63ea1","fromSide":"bottom","toNode":"4dfbbd3aebd866e5","toSide":"top"},
+		{"id":"92aa9e5c6a111dbf","fromNode":"7c8573f18f1d1a20","fromSide":"bottom","toNode":"abb85186990c2c7d","toSide":"top"},
+		{"id":"d4f9fd64e2a78e2a","fromNode":"ba4c32ee61fdc322","fromSide":"bottom","toNode":"2839bcd91ae5c2a3","toSide":"top"},
+		{"id":"26bdac6b7d7d47b5","fromNode":"c630d6c18c34e601","fromSide":"bottom","toNode":"1b525b640e23f822","toSide":"top"},
+		{"id":"7eb516993b2065ef","fromNode":"e5f436c02be049c3","fromSide":"bottom","toNode":"3e03ef05724fa4ed","toSide":"top"}
+	]
+}
