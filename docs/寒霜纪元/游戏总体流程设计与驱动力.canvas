@@ -57,11 +57,11 @@
 		{"id":"58b02350b9c7e7f9","type":"text","text":"击败所有天境boss","x":-1204,"y":641,"width":250,"height":50,"color":"5"},
 		{"id":"9247bfc8ea662854","x":-2154,"y":648,"width":250,"height":60,"color":"5","type":"text","text":"每晚有1/3的概率刷新boss"},
 		{"id":"5df357ee2d78f9fc","x":-2146,"y":744,"width":250,"height":60,"color":"5","type":"text","text":"每5天触发一次升级冰雪入侵"},
-		{"id":"d6e3c16d04076872","x":-894,"y":641,"width":250,"height":50,"color":"5","type":"text","text":"后期是数值快速膨胀器，玩家的数值会从一刀十几点血最后到100滴血"},
+		{"id":"d6e3c16d04076872","x":-894,"y":641,"width":250,"height":85,"color":"5","type":"text","text":"后期是数值快速膨胀器，玩家的数值会从一刀十几点血最后到100滴血"},
 		{"id":"556e6b065a9ec48d","x":-1498,"y":641,"width":250,"height":50,"color":"5","type":"text","text":"前往同样的地牢冒险，怪物大大增强(刷一些武器材料)"},
 		{"id":"854c576cc8e851ac","x":-1494,"y":719,"width":250,"height":60,"color":"5","type":"text","text":"造出下界合金套"},
 		{"id":"f35cc0c9c1daa8a1","x":-1494,"y":800,"width":250,"height":60,"color":"5","type":"text","text":"世界将白天日食，晚上暴风雪（袭击不停）"},
-		{"id":"eeabcbaafe10aaa0","x":-1831,"y":644,"width":250,"height":60,"color":"5","type":"text","text":"最后，在袭击中获得龙套过后，前往击杀最终自制boss"}
+		{"id":"eeabcbaafe10aaa0","x":-1831,"y":644,"width":250,"height":82,"color":"5","type":"text","text":"最后，在袭击中获得龙套过后，前往击杀最终自制boss"}
 	],
 	"edges":[
 		{"id":"171467e37f5436ad","fromNode":"d8714c86f5ed1d68","fromSide":"bottom","toNode":"d31ccf259df1d18a","toSide":"top"},
