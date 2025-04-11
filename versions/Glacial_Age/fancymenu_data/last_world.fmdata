@@ -1,7 +1,0 @@
-type = last_world
-
-last_world {
-  is_server = false
-  world = E:/MCDATA/McModpack_Glacial_Age/Glacial_Age/versions/Glacial_Age/saves/新的世界 (11)
-}
-
